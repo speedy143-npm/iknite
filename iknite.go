@@ -2,7 +2,7 @@ package iknite
 
 import "fmt"
 
-func display() {
+func Display() {
 	fmt.Println("It Works Now!")
 }
 
